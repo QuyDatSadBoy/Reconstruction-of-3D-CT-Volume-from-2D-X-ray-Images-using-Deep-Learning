@@ -1,0 +1,5 @@
+total_patients: 216
+avg_slices: 430.712962962963
+std_slices: 75.38740081957968
+avg_thickness: 1.2650462962962963
+std_thickness: 0.38272052186504574

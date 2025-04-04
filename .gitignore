@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 Data_LIDC/
+filtered_dataset/
+dataset/
